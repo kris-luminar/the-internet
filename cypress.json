@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://the-internet.herokuapp.com",
+  "retries": 2,
+  "watchForFileChanges": false,
+  "chromeWebSecurity": true,
+  "viewportHeight": 990,
+  "viewportWidth": 1440
+}
