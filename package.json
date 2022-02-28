@@ -1,0 +1,14 @@
+{
+  "name": "the-internet",
+  "version": "1.0.0",
+  "description": "Interview questions",
+  "author": "Kris Luminar",
+  "license": "UNLICENSED",
+  "scripts": {
+    "cypress-ui": "cypress open",
+    "cypress-test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
